@@ -1,3 +1,2 @@
-nome = int(input("Digite seu nome: "))
-print("Hello World")
-print("Seu nome é " nome)
+nome = str(input("Digite seu nome: "))
+print(f"Seu nome é", nome)
